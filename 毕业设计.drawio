@@ -88,7 +88,7 @@
         <mxCell id="vV95Zqpo1-kTtptIlJLz-42" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="支付模块" vertex="1">
           <mxGeometry height="150" width="60" x="832" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="QODdudn0V-n7Y1_wympJ-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="商品管理模块" vertex="1">
+        <mxCell id="QODdudn0V-n7Y1_wympJ-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="管理员登录模块" vertex="1">
           <mxGeometry height="150" width="60" x="1060" y="420" as="geometry" />
         </mxCell>
       </root>
