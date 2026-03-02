@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" version="29.6.0">
-  <diagram name="第 1 页" id="-qYrj7VPNIjaDh9coS7x">
-    <mxGraphModel>
+  <diagram name="地址" id="-qYrj7VPNIjaDh9coS7x">
+    <mxGraphModel dx="407" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="地址" vertex="1">
+          <mxGeometry height="50" width="110" x="290" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="地址id" vertex="1">
+          <mxGeometry height="50" width="90" x="180" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="用户ID" vertex="1">
+          <mxGeometry height="50" width="90" x="300" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="手机" vertex="1">
+          <mxGeometry height="50" width="90" x="150" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="县/区(英文)" vertex="1">
+          <mxGeometry height="50" width="90" x="120" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="市(英文)" vertex="1">
+          <mxGeometry height="50" width="90" x="300" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="市" vertex="1">
+          <mxGeometry height="50" width="90" x="400" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="省" vertex="1">
+          <mxGeometry height="50" width="90" x="420" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="省(英文)" vertex="1">
+          <mxGeometry height="50" width="90" x="414" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="县/区" vertex="1">
+          <mxGeometry height="50" width="90" x="170" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="详细地址" vertex="1">
+          <mxGeometry height="50" width="90" x="90" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="详细地址(英文)" vertex="1">
+          <mxGeometry height="50" width="90" x="200" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="联系人" vertex="1">
+          <mxGeometry height="50" width="90" x="310" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="联系人(英文)" vertex="1">
+          <mxGeometry height="50" width="90" x="170" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Vg7GZcra1FVZK7p8uymj-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="邮编" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="510" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
