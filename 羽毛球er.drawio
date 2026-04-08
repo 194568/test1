@@ -689,10 +689,13 @@
     </mxGraphModel>
   </diagram>
   <diagram name="场地预约信息" id="hV-O2m9p41M6XtII6jMf">
-    <mxGraphModel dx="938" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="727" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gg19vadkxC-8e458A8EC-0" />
         <mxCell id="gg19vadkxC-8e458A8EC-1" parent="gg19vadkxC-8e458A8EC-0" />
+        <mxCell id="0KD-38GgTsznac1KNfwZ-1" edge="1" parent="gg19vadkxC-8e458A8EC-1" source="AqTPX479v97wHVt9L5eA-0" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="0KD-38GgTsznac1KNfwZ-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AqTPX479v97wHVt9L5eA-0" parent="gg19vadkxC-8e458A8EC-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="场地预约信息" vertex="1">
           <mxGeometry height="30" width="146" x="514" y="182.5" as="geometry" />
         </mxCell>
@@ -700,13 +703,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqTPX479v97wHVt9L5eA-2" parent="gg19vadkxC-8e458A8EC-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="场地编号" vertex="1">
-          <mxGeometry height="20" width="90" x="640" y="240" as="geometry" />
+          <mxGeometry height="20" width="90" x="600" y="250" as="geometry" />
         </mxCell>
         <mxCell id="AqTPX479v97wHVt9L5eA-5" edge="1" parent="gg19vadkxC-8e458A8EC-1" source="AqTPX479v97wHVt9L5eA-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="AqTPX479v97wHVt9L5eA-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AqTPX479v97wHVt9L5eA-6" parent="gg19vadkxC-8e458A8EC-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="场地预约编号" vertex="1">
-          <mxGeometry height="20" width="80" x="530" y="250" as="geometry" />
+          <mxGeometry height="20" width="80" x="510" y="250" as="geometry" />
         </mxCell>
         <mxCell id="AqTPX479v97wHVt9L5eA-7" edge="1" parent="gg19vadkxC-8e458A8EC-1" source="AqTPX479v97wHVt9L5eA-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="AqTPX479v97wHVt9L5eA-0">
           <mxGeometry relative="1" as="geometry" />
@@ -768,6 +771,9 @@
         </mxCell>
         <mxCell id="AqTPX479v97wHVt9L5eA-26" edge="1" parent="gg19vadkxC-8e458A8EC-1" source="AqTPX479v97wHVt9L5eA-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.689;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="AqTPX479v97wHVt9L5eA-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0KD-38GgTsznac1KNfwZ-0" parent="gg19vadkxC-8e458A8EC-1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="预约状态" vertex="1">
+          <mxGeometry height="20" width="80" x="700" y="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
