@@ -432,7 +432,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uP6NAh6JiP2L6ntATQJY" name="登录注册">
-    <mxGraphModel dx="727" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -493,7 +493,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="场地预约" id="v3m-giTiDcm9JVM9-np7">
-    <mxGraphModel dx="727" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4lMKXt4b_1FHYyVRkVX9-0" />
         <mxCell id="4lMKXt4b_1FHYyVRkVX9-1" parent="4lMKXt4b_1FHYyVRkVX9-0" />
@@ -613,7 +613,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="预约信息" id="pg9SFh0Q_wp_ugYERQ5h">
-    <mxGraphModel dx="1039" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aVWvc--Huqs9zF2N362i-0" />
         <mxCell id="aVWvc--Huqs9zF2N362i-1" parent="aVWvc--Huqs9zF2N362i-0" />
