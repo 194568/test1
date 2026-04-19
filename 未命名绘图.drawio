@@ -176,7 +176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Nv9iaOcS94uR51E9XOKF" name="普通用户用例">
-    <mxGraphModel dx="938" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,11 +207,23 @@
         <mxCell id="x_iH6H5SBEV4vYM8a237-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="普通用户" vertex="1">
           <mxGeometry height="60" width="30" x="170" y="220" as="geometry" />
         </mxCell>
-        <mxCell id="x_iH6H5SBEV4vYM8a237-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看/发布留言" vertex="1">
-          <mxGeometry height="40" width="100" x="290" y="60" as="geometry" />
+        <mxCell id="3uDYR205KpJ6bL19GAHL-2" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-4" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_iH6H5SBEV4vYM8a237-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="留言功能" vertex="1">
+          <mxGeometry height="40" width="100" x="290" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-6" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-9" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-7" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x_iH6H5SBEV4vYM8a237-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="预约教练" vertex="1">
-          <mxGeometry height="40" width="100" x="290" y="110" as="geometry" />
+          <mxGeometry height="40" width="100" x="290" y="100" as="geometry" />
         </mxCell>
         <mxCell id="x_iH6H5SBEV4vYM8a237-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看公告" vertex="1">
           <mxGeometry height="40" width="100" x="290" y="160" as="geometry" />
@@ -219,8 +231,20 @@
         <mxCell id="x_iH6H5SBEV4vYM8a237-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看新闻" vertex="1">
           <mxGeometry height="40" width="100" x="290" y="210" as="geometry" />
         </mxCell>
-        <mxCell id="x_iH6H5SBEV4vYM8a237-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="预约/查看场地" vertex="1">
+        <mxCell id="3uDYR205KpJ6bL19GAHL-13" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-15" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x_iH6H5SBEV4vYM8a237-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="预约场地" vertex="1">
           <mxGeometry height="40" width="100" x="290" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-19" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3uDYR205KpJ6bL19GAHL-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-20" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="3uDYR205KpJ6bL19GAHL-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x_iH6H5SBEV4vYM8a237-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看我的预约" vertex="1">
           <mxGeometry height="40" width="100" x="290" y="310" as="geometry" />
@@ -228,11 +252,38 @@
         <mxCell id="x_iH6H5SBEV4vYM8a237-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="修改个人信息" vertex="1">
           <mxGeometry height="40" width="100" x="290" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="x_iH6H5SBEV4vYM8a237-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="在线充值" vertex="1">
-          <mxGeometry height="40" width="100" x="290" y="410" as="geometry" />
+        <mxCell id="3uDYR205KpJ6bL19GAHL-22" edge="1" parent="1" source="x_iH6H5SBEV4vYM8a237-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3uDYR205KpJ6bL19GAHL-21" value="">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x_iH6H5SBEV4vYM8a237-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="145" width="425" x="125" y="185" as="geometry" />
+        <mxCell id="x_iH6H5SBEV4vYM8a237-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="在线充值" vertex="1">
+          <mxGeometry height="40" width="100" x="300" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看留言" vertex="1">
+          <mxGeometry height="30" width="80" x="460" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="发布留言" vertex="1">
+          <mxGeometry height="30" width="80" x="470" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="选择教练预约上课" vertex="1">
+          <mxGeometry height="40" width="100" x="470" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="浏览教练上课时间表" vertex="1">
+          <mxGeometry height="40" width="120" x="450" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="选择场地进行预约" vertex="1">
+          <mxGeometry height="40" width="100" x="460" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看场地预约情况" vertex="1">
+          <mxGeometry height="40" width="100" x="470" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="查看我的预约情况" vertex="1">
+          <mxGeometry height="40" width="100" x="470" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="取消预约场地/教练" vertex="1">
+          <mxGeometry height="40" width="110" x="470" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="3uDYR205KpJ6bL19GAHL-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="给账户充值" vertex="1">
+          <mxGeometry height="40" width="100" x="480" y="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
