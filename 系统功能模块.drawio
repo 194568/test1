@@ -73,7 +73,7 @@
         <mxCell id="vV95Zqpo1-kTtptIlJLz-10" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="订单管理模块" vertex="1">
           <mxGeometry height="150" width="60" x="742" y="404" as="geometry" />
         </mxCell>
-        <mxCell id="vV95Zqpo1-kTtptIlJLz-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="语言切换模块" vertex="1">
+        <mxCell id="vV95Zqpo1-kTtptIlJLz-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="中外双语切换模块" vertex="1">
           <mxGeometry height="150" width="60" x="922" y="404" as="geometry" />
         </mxCell>
         <mxCell id="vV95Zqpo1-kTtptIlJLz-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="商品管理模块" vertex="1">
