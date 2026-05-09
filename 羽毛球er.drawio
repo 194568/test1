@@ -251,14 +251,8 @@
         <mxCell id="PznJGbyVgvPbJnnb6ACK-9" parent="SFHvSoCq938oIEC7UgD3-1" style="ellipse;whiteSpace=wrap;html=1;" value="时间" vertex="1">
           <mxGeometry height="30" width="66" x="250" y="280" as="geometry" />
         </mxCell>
-        <mxCell id="PznJGbyVgvPbJnnb6ACK-10" edge="1" parent="SFHvSoCq938oIEC7UgD3-1" source="PznJGbyVgvPbJnnb6ACK-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="PznJGbyVgvPbJnnb6ACK-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="PznJGbyVgvPbJnnb6ACK-12" edge="1" parent="SFHvSoCq938oIEC7UgD3-1" source="PznJGbyVgvPbJnnb6ACK-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="PznJGbyVgvPbJnnb6ACK-0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PznJGbyVgvPbJnnb6ACK-14" parent="SFHvSoCq938oIEC7UgD3-1" style="ellipse;whiteSpace=wrap;html=1;" value="附件源" vertex="1">
-          <mxGeometry height="30" width="66" x="359" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
