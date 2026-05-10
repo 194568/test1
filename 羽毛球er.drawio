@@ -530,13 +530,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="用户" id="g0tf4iranJRAG2537uxw">
-    <mxGraphModel dx="946" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jJKIBIg8XtjBJtKPlyic-0" />
         <mxCell id="jJKIBIg8XtjBJtKPlyic-1" parent="jJKIBIg8XtjBJtKPlyic-0" />
-        <mxCell id="F-BsbfTrvaE-IJGTA5pz-49" edge="1" parent="jJKIBIg8XtjBJtKPlyic-1" source="F-BsbfTrvaE-IJGTA5pz-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="F-BsbfTrvaE-IJGTA5pz-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="F-BsbfTrvaE-IJGTA5pz-50" edge="1" parent="jJKIBIg8XtjBJtKPlyic-1" source="F-BsbfTrvaE-IJGTA5pz-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="F-BsbfTrvaE-IJGTA5pz-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -594,12 +591,6 @@
         <mxCell id="F-BsbfTrvaE-IJGTA5pz-37" parent="jJKIBIg8XtjBJtKPlyic-1" style="ellipse;whiteSpace=wrap;html=1;" value="邮箱" vertex="1">
           <mxGeometry height="32.5" width="71" x="390" y="241.25" as="geometry" />
         </mxCell>
-        <mxCell id="F-BsbfTrvaE-IJGTA5pz-38" edge="1" parent="jJKIBIg8XtjBJtKPlyic-1" source="F-BsbfTrvaE-IJGTA5pz-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="F-BsbfTrvaE-IJGTA5pz-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F-BsbfTrvaE-IJGTA5pz-39" parent="jJKIBIg8XtjBJtKPlyic-1" style="ellipse;whiteSpace=wrap;html=1;" value="附件" vertex="1">
-          <mxGeometry height="22.5" width="76" x="310" y="245" as="geometry" />
-        </mxCell>
         <mxCell id="F-BsbfTrvaE-IJGTA5pz-40" edge="1" parent="jJKIBIg8XtjBJtKPlyic-1" source="F-BsbfTrvaE-IJGTA5pz-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="F-BsbfTrvaE-IJGTA5pz-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -617,9 +608,6 @@
         </mxCell>
         <mxCell id="F-BsbfTrvaE-IJGTA5pz-45" parent="jJKIBIg8XtjBJtKPlyic-1" style="ellipse;whiteSpace=wrap;html=1;" value="删除标识" vertex="1">
           <mxGeometry height="27.5" width="74.5" x="230" y="230" as="geometry" />
-        </mxCell>
-        <mxCell id="F-BsbfTrvaE-IJGTA5pz-47" parent="jJKIBIg8XtjBJtKPlyic-1" style="ellipse;whiteSpace=wrap;html=1;" value="时间" vertex="1">
-          <mxGeometry height="30" width="71" x="470" y="242.5" as="geometry" />
         </mxCell>
         <mxCell id="F-BsbfTrvaE-IJGTA5pz-48" parent="jJKIBIg8XtjBJtKPlyic-1" style="ellipse;whiteSpace=wrap;html=1;" value="余额" vertex="1">
           <mxGeometry height="30" width="71" x="544.5" y="222.5" as="geometry" />
